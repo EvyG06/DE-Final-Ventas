@@ -1,4 +1,5 @@
-# Examen final: ventas diarias con control de actualidad
+# Examen final: Evelyn Gómez
+- ventas diarias con control de actualidad
 
 Una empresa de comercio electrónico consulta un resumen diario de ventas para decidir promociones e inventario. A veces la carga se retrasa y el proceso puede terminar sin errores técnicos, aunque reconstruya el resumen con información desactualizada. Tu trabajo es completar la tabla analítica y evitar su reconstrucción cuando la fuente sea demasiado antigua. **No se requiere un dashboard.**
 
