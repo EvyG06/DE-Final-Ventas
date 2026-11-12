@@ -1,0 +1,11 @@
+11:12:29.850612 [info ] [MainThread]: Done. PASS=19 WARN=0 ERROR=0 SKIP=0 TOTAL=19
+11:36:16.869204 [info ] [Thread-1 (]: 1 of 1 START freshness of ventas_raw.ventas .................................... [RUN]
+11:36:16.886950 [error] [Thread-1 (]: 1 of 1 ERROR STALE freshness of ventas_raw.ventas .............................. [ERROR STALE in 0.02s]
+11:45:26.821258 [info ] [Thread-1 (]: 1 of 1 START freshness of ventas_raw.ventas .................................... [RUN]
+11:45:26.839306 [info ] [Thread-1 (]: 1 of 1 PASS freshness of ventas_raw.ventas ..................................... [PASS in 0.02s]
+11:45:30.141519 [info ] [MainThread]: Done. PASS=19 WARN=0 ERROR=0 SKIP=0 TOTAL=19
+11:48:16.578547 [info ] [Thread-1 (]: 1 of 1 START freshness of ventas_raw.ventas .................................... [RUN]
+11:48:16.612465 [info ] [Thread-1 (]: 1 of 1 PASS freshness of ventas_raw.ventas ..................................... [PASS in 0.03s]
+11:48:19.861483 [info ] [MainThread]: Done. PASS=19 WARN=0 ERROR=0 SKIP=0 TOTAL=19
+11:50:59.423508 [info ] [Thread-1 (]: 1 of 1 START freshness of ventas_raw.ventas .................................... [RUN]
+11:50:59.442757 [error] [Thread-1 (]: 1 of 1 ERROR STALE freshness of ventas_raw.ventas .............................. [ERROR STALE in 0.02s]
